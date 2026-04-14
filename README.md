@@ -4,6 +4,7 @@
 
 ## Overview
 This is a 2D platformer game developed using Unity.
+This project focuses on smooth player control using coyote time and simple but clear game flow design.
 
 The player moves through stages while avoiding traps and aiming for the goal.
 ## Gameplay
@@ -36,6 +37,8 @@ Next stage with platform jumping.
 ## Technical Details
 - Unity (C#)
 - Rigidbody2D / Collider2D
+- Coyote Time (jump forgiveness system)
+- Scene Management (stage transition)
 - UI (Canvas)
 
 ## Improvements
