@@ -7,6 +7,14 @@ This is a 2D platformer game developed using Unity.
 This project focuses on smooth player control using coyote time and simple but clear game flow design.
 
 The player moves through stages while avoiding traps and aiming for the goal.
+
+## Controls
+
+- Move: ← / →
+- Jump: Space
+- Retry: R
+- Next Stage: Enter
+- 
 ## Gameplay
 
 ### Stage 1
