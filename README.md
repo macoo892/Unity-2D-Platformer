@@ -14,7 +14,7 @@ The player moves through stages while avoiding traps and aiming for the goal.
 - Jump: Space
 - Retry: R
 - Next Stage: Enter
-- 
+  
 ## Gameplay
 
 ### Stage 1
