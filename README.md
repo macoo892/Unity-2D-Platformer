@@ -10,10 +10,10 @@ The player moves through stages while avoiding traps and aiming for the goal.
 
 ## Controls
 
-- Move: ← / →
-- Jump: Space
-- Retry: R
-- Next Stage: Enter
+- Move       : ← / →
+- Jump       : Space
+- Retry      : R
+- Next Stage : Enter
   
 ## Gameplay
 
